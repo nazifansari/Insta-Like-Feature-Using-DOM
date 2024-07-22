@@ -2,7 +2,7 @@
 This project demonstrates how to create an Instagram-like "like" feature using HTML, CSS, and JavaScript. The feature includes an image and a heart icon that can be toggled to show a "like" animation.
 
 ## Demo
-You can see the project in action here.
+You can see the project in action [here](https://nazifansari.github.io/Insta-Like-Feature-Using-DOM).
 
 ## Table of Contents
 Installation
